@@ -8,10 +8,6 @@
 
 Bisa juga langsung ditempel ke Expo Snack (snack.expo.dev).
 
-# TodosApp 📱
-
-A simple Todo List application built with **React Native, Expo, and Firebase Firestore**.
-
 ## Tampilan di Web Laptop
 <img width="638" height="321" alt="image" src="https://github.com/user-attachments/assets/7515e4be-0187-4667-a461-5dedfd3d50b1" />
 <img width="638" height="321" alt="image" src="https://github.com/user-attachments/assets/6d60d49f-304c-41e2-816a-09b922892bb1" />
